@@ -1,4 +1,4 @@
-class Gustokopa 
+class Sched
     def initialize (student, subject)
         @student = student
         @subject = subject
@@ -10,7 +10,7 @@ class Gustokopa
 
 end
 
-schedule1 = Gustokopa.new("Miyu", "Math")
+schedule1 = Sched.new("Miyu", "Math")
 
 schedule1.method()
 
