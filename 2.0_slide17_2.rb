@@ -1,6 +1,5 @@
 # Fix the code. https://www.codepile.net/pile/M5XMAE4x
 
-
 module AdminPermisson
   def edit_users_profile
     puts "Admin updated all users profile"
