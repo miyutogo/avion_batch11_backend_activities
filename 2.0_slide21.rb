@@ -1,19 +1,3 @@
-class Sched
-    def initialize (student, subject)
-        @student = student
-        @subject = subject
-    end
-
-    def method ()
-        puts "Hello #{@student1}, it's #{@subject} time!"
-    end
-
-end
-
-schedule1 = Sched.new("Miyu", "Math")
-
-schedule1.method()
-
 class Axie
     #attr_accessor :full_name, :age, :address, :work
     def initialize(opp_life, opp_armor, dmg_given)
