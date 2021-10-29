@@ -1,5 +1,4 @@
-class Axie
-    #attr_accessor :full_name, :age, :address, :work
+class Axieg
     def initialize(opp_life, opp_armor, dmg_given)
         @opp_life = opp_life
         @opp_armor = opp_armor
